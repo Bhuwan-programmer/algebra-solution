@@ -1,0 +1,24 @@
+#result,#results,#resulted,#formula{
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+   color:purple;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+#num,#num1{
+    text-align: center;
+    font-weight: bold;
+    height: 25px;
+}
+body{
+    background-color: beige;
+}
+h1{
+    color: orangered;
+}
